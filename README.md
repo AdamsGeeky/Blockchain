@@ -1,6 +1,7 @@
 # NITDABlockchain
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bTrTnPMPq8UORCrBWG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG"></a></p>
+
+<img align="center" alt="Coding" src="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG">
 
 “If You Fail to Plan, You Are Planning to Fail” — Benjamin Franklin.
 <p><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
