@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" src="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG">
 
 “If You Fail to Plan, You Are Planning to Fail” — Benjamin Franklin.
-<p><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
+<p><img align="center" alt="Coding" src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif"></p>
 # onboarding 
 
 programme will start on **8 December 2022**, where you will delve deeper into the programme and complete a series of assignments. 
