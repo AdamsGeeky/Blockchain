@@ -19,17 +19,13 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 
 <details>
 <summary>The First 2 weeks </summary>
-<ul>
-<li>Bitcoin theory
-<ul>
-<li><a src="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc">Introduction</a></li>
-<li><a src="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc">How Bitcoin Works</a></li>
-</ul>
-</li>  
 
-    <li>JavaScript</li>
-    <li>Golang</li>
-</ul>
+- Bitcoin theory
+  - [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
+  - [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
+- JavaScript
+- Golang
+
 </details>
 
 <details>
