@@ -1,9 +1,8 @@
 # NITDABlockchainScholarship(non officially) Study plan
 
+“If You Fail to Plan, You Are Planning to Fail” — Benjamin Franklin.
 
 <img align="center" alt="Coding" src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif">
-
-“If You Fail to Plan, You Are Planning to Fail” — Benjamin Franklin.
 
 # onboarding 
 
