@@ -18,6 +18,7 @@ If you finish among the top 30% of the class, you will be onboarded into the mai
 must prove your capabilities in the first 2 weeks by getting a cumulative score that puts you in the 30th percentile in all quizzes and projects in that period in order to progress in the programme. If you don’t meet this requirement, you will no longer be part of the programme after 2 weeks.
 # Pre-requisites
 - Git(version control system)
+- GitHub 
 - [Difference between Web1,Web2,Web3](https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article)
 <details>
 <summary>The First 2 weeks </summary>
