@@ -1,6 +1,5 @@
-# NITDABlockchainScholarship 
+# NITDABlockchainScholarship(not officially) Study plan
 
-## MY Personal Study Plan
 
 <img align="center" alt="Coding" src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif">
 
