@@ -1,4 +1,4 @@
-# NITDABlockchainScholarship(not officially) Study plan
+# NITDABlockchainScholarship(non officially) Study plan
 
 
 <img align="center" alt="Coding" src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif">
