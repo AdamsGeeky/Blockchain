@@ -17,14 +17,23 @@ If you finish among the top 30% of the class, you will be onboarded into the mai
 
 must prove your capabilities in the first 2 weeks by getting a cumulative score that puts you in the 30th percentile in all quizzes and projects in that period in order to progress in the programme. If you don’t meet this requirement, you will no longer be part of the programme after 2 weeks.
 # Pre-requisites
+1. Git(version control system)
 <details>
 <summary>The First 2 weeks </summary>
 
 - Bitcoin theory
   - [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
   - [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
-- [JavaScript](https://www.w3schools.com/js/)
-# Golang
+# JavaScript
+- [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/)
+- [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+  # Golang
 - [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
 - [Getting started - Go](https://go.dev/learn/)
 - [Go tutorial - Tutorials point](https://www.tutorialspoint.com/go/index.htm)
