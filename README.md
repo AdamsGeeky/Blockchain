@@ -44,12 +44,11 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
 
-# Golang
+# Golang  **Build simple, secure, scalable systems**
 # Syllabus
 - [x] **An Introduction of Go - why Go is worth learning.**
   - [x]  **What is Go?**
      Go, or Golang, is a programming language developed at Google. It has received a lot of acclaim from developers for its speed and straightforward syntax.
-     **Build simple, secure, scalable systems**
     - An open-source programming language supported by Google
     - Easy to learn and great for teams
     - Built-in concurrency and a robust standard library
