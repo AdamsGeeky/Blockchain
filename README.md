@@ -66,7 +66,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
         This guide will assume some knowledge of the **command line** and use of a code editor **(we recommend VSCode),** so brush up if you need too!
         First, downland Go to your computer by going to Golang’s download page and select your operating system under the Featured downloads section.
 
-  - [ ] Become Familiar With Go Code
+- [ ] Become Familiar With Go Code
 - [ ] Introduction of Source Code Elements
 - [ ] Keywords and Identifiers
 - [ ] Basic Types and Their Value
