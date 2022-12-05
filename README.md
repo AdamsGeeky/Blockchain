@@ -46,21 +46,21 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 
 # Golang
 # Syllabus
-- [ * ] **An Introduction of Go - why Go is worth learning.**
-  - [ * ]  **What is Go?**
+- [ x ] **An Introduction of Go - why Go is worth learning.**
+  - [ x ]  **What is Go?**
      Go, or Golang, is a programming language developed at Google. It has received a lot of acclaim from developers for its speed and straightforward syntax.
      **Build simple, secure, scalable systems**
     - An open-source programming language supported by Google
     - Easy to learn and great for teams
     - Built-in concurrency and a robust standard library
     - Large ecosystem of partners, communities, and tools
-  - [ * ] Why Go is worth Learning 
+  - [ x ] Why Go is worth Learning 
         GoLang is a compiled multi-threaded programming language based on open source C and developed internally at Google. It is a single language that allows different processes to run simultaneously, which means simultaneous programming. Extremely fast, easy to maintain, and efficient, GoLang has all the advantages needed for **distributed systems** because it can handle **multiple parts of the blockchain concurrently.**
         The language was developed for **high-performance programs running** on modern **distributed systems** and **multicore processors**. Market participants perceived the launch of GoLang as an attempt to create a replacement for C/C ++. Today, the **Hyperledger Fabric blockchain** platform uses this programming language. It is often used in **NFT marketplace** development. 
         Examples of blockchain projects that use GoLang: **GoChain**, **Dero**, **Loom Network**, **Ethereum**, **Hyperledger Fabric**. .
 
-- [*] The Go Toolchain - how to compile and run Go programs.
-  - [*] **Setting Up Go Locally**
+- [x] The Go Toolchain - how to compile and run Go programs.
+  - [x] **Setting Up Go Locally**
         Installing Go and Running Go Programs
         Developing Go locally on your own environment is a big step towards creating your very own Go projects and exercising your imagination!
         
