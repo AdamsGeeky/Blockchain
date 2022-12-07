@@ -29,7 +29,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
   - [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
 
 # objective  
-# Chapter 1: Abstract (Approx 45 mins)  
+# Chapter 1: Abstract  
 ## objective  
 [ ] - Peer-to-peer cash  
 [ ] - Digital signatures and trusted third parties  
@@ -41,7 +41,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 [ ] - Network structure  
 [ ] - Messaging between nodes  
 
-# Chapter 2: Introduction (Approx 45 mins)  
+# Chapter 2: Introduction 
 ## objective  
 [ ] - Commerce on the internet  
 [ ] - Non reversible transactions  
@@ -52,105 +52,91 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 [ ] - Proposed solution  
 [ ] - Security and honesty  
 
-# Chapter 3: Transactions (Approx 45 mins)  
+# Chapter 3: Transactions  
 ## objective  
 [ ] - Electronic Coins  
 [ ] - Spending a coin  
-[ ] - Transactions Assessment No.1  
 [ ] - Payee verification  
 [ ] - Existing solutions  
 [ ] - First Seen Rule  
-[ ] - Transactions Assessment No.2  
 [ ] - Broadcasting Transactions  
 [ ] - Achieving Consensus  
 [ ] - Proof of acceptance  
 
 
-# Chapter 4: Timestamp Server (Approx 15 mins)  
+# Chapter 4: Timestamp Server )  
 ## objective  
 [ ] - Timestamped Hashes  
 [ ] - A chain of timestamped hashes  
 [ ] - Timestamp Server Video  
-[ ] - Timestamp Server Assessment No.1  
 
-# Chapter 5: Proof of Work (Approx 60 mins)  
+# Chapter 5: Proof of Work  
 ## objective  
 [ ] - Hashcash  
-[ ] - Scanning random space  
-[ ] - Proof of Work Assessment No.1  
+[ ] - Scanning random space    
 [ ] - Nonce  
 [ ] - Immutable Work  
 [ ] - Chained effort  
-[ ] - Proof of Work Assessment No.2  
 [ ] - One CPU, one vote  
 [ ] - The majority decision  
 [ ] - The honest chain  
-[ ] - Proof of Work Assessment No.3  
 [ ] - Attacking the longest chain  
 [ ] - Controlling the block discovery rate  
 
-# Chapter 6: Network (Approx 45 mins)  
+# Chapter 6: Network
 ## objective
 [ ] - Section read-through  
 [ ] - Running the Network  
-[ ] - Network Assessment No.1  
 [ ] - The longest chain  
 [ ] - Simultaneous blocks  
-[ ] - Network Assessment No.2○ 06 Breaking the tie  
+[ ] - Breaking the tie  
 [ ] - Missed messages  
 
-# Chapter 7: Incentive (Approx 45 mins)  
+# Chapter 7: Incentive  
 ## objective  
 [ ] - The Coinbase Transaction  
-[ ] - Coin Distribution  
-[ ] - Incentive Assessment No.1  
+[ ] - Coin Distribution   
 [ ] - Mining analogy  
 [ ] - Transaction fees  
 [ ] - The end of inflation  
-[ ] - Incentive Assessment No.2  
 [ ] - Encouraging honesty  
 [ ] - The attacker’s dilemma  
-[ ] - Incentive Video  
-[ ] - Incentive Assessment No.3  
+[ ] - Incentive Video   
 
-# Chapter 8: Reclaiming Disk Space (Approx 30 mins)  
+# Chapter 8: Reclaiming Disk Space 
 ## objective
 [ ] - Spent transactions  
 [ ] - The Merkle Tree  
-[ ] - Reclaiming Disk Space Assessment No.1  
 [ ] - Compacting blocks  
 [ ] - Block Headers  
-# Chapter 9: Simplified Payment Verification (Approx 45 mins)  
+
+# Chapter 9: Simplified Payment Verification 
 ## objective  
-[ ] - Full network nodes○ 02 Merkle Branches  
-[ ] - Simplified Payment Verification Assessment No.1  
+[ ] - Full network nodes○ 
+[ ] - Merkle Branches   
 [ ] - Transaction acceptance  
 [ ] - Verification during attack situations  
 [ ] - Maintaining an attack  
-[ ] - Simplified Payment Verification Assessment No.2  
 [ ] - Invalid Block Relay System  
 [ ] - Businesses running nodes   
 
-● Chapter 10: Combining and Splitting Value (Approx 30 mins)  
+● Chapter 10: Combining and Splitting Value   
 ## objective
 [ ] - Dynamically sized coins  
-[ ] - Inputs and Outputs  
-[ ] - Combining and Splitting Value Assessment No.1  
+[ ] - Inputs and Outputs    
 [ ] - A typical example  
 [ ] - Fan-out  
 
-# Chapter 11: Privacy (Approx 45 mins)  
+# Chapter 11: Privacy  
 ## objective  
 [ ] - Traditional Models  
 [ ] - Privacy in Bitcoin  
-[ ] - Privacy Assessment No.1  
 [ ] - Public records  
 [ ] - Stock Exchange Comparison  
-[ ] - Key Re-use  
-[ ] - Privacy Assessment No.2  
+[ ] - Key Re-use   
 [ ] - Linking inputs  
 
-# Chapter 12: Calculations (Approx 60 mins)  
+# Chapter 12: Calculations  
 ## objective  
 [ ] - Attacking the chain  
 [ ] - Things the attacker cannot achieve...  
