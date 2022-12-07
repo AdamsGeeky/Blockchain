@@ -31,122 +31,122 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 # objective  
 # Chapter 1: Abstract  
 ## objective  
-[ ] - Peer-to-peer cash  
-[ ] - Digital signatures and trusted third parties  
-[ ] - Peer to Peer network  
-[ ] - Time Chain and Proof of Work  
-[ ] - CPU Power  
-[ ] - Abstract Assessment No.2  
-[ ] - Cooperation in the network  
-[ ] - Network structure  
-[ ] - Messaging between nodes  
+- [ ] Peer-to-peer cash  
+- [ ] Digital signatures and trusted third parties  
+- [ ] Peer to Peer network  
+- [ ] Time Chain and Proof of Work  
+- [ ] CPU Power  
+- [ ] Abstract Assessment No.2  
+- [ ] Cooperation in the network  
+- [ ] Network structure  
+- [ ] Messaging between nodes  
 
 # Chapter 2: Introduction 
 ## objective  
-[ ] - Commerce on the internet  
-[ ] - Non reversible transactions  
-[ ] - Privacy in commerce  
-[ ] - The paradigm of fraud acceptance  
-[ ] - What is needed...  
-[ ] - Protecting sellers from fraud  
-[ ] - Proposed solution  
-[ ] - Security and honesty  
+- [ ] Commerce on the internet  
+- [ ] Non reversible transactions  
+- [ ] Privacy in commerce  
+- [ ] The paradigm of fraud acceptance  
+- [ ] What is needed...  
+- [ ] Protecting sellers from fraud  
+- [ ] Proposed solution  
+- [ ] Security and honesty  
 
 # Chapter 3: Transactions  
 ## objective  
-[ ] - Electronic Coins  
-[ ] - Spending a coin  
-[ ] - Payee verification  
-[ ] - Existing solutions  
-[ ] - First Seen Rule  
-[ ] - Broadcasting Transactions  
-[ ] - Achieving Consensus  
-[ ] - Proof of acceptance  
+- [ ] Electronic Coins  
+- [ ] Spending a coin  
+- [ ] Payee verification  
+- [ ] Existing solutions  
+- [ ] First Seen Rule  
+- [ ] Broadcasting Transactions  
+- [ ] Achieving Consensus  
+- [ ] Proof of acceptance  
 
 
 # Chapter 4: Timestamp Server )  
 ## objective  
-[ ] - Timestamped Hashes  
-[ ] - A chain of timestamped hashes  
-[ ] - Timestamp Server Video  
+- [ ] Timestamped Hashes  
+- [ ] A chain of timestamped hashes  
+- [ ] Timestamp Server Video  
 
 # Chapter 5: Proof of Work  
 ## objective  
-[ ] - Hashcash  
-[ ] - Scanning random space    
-[ ] - Nonce  
-[ ] - Immutable Work  
-[ ] - Chained effort  
-[ ] - One CPU, one vote  
-[ ] - The majority decision  
-[ ] - The honest chain  
-[ ] - Attacking the longest chain  
-[ ] - Controlling the block discovery rate  
+- [ ] Hashcash  
+- [ ] Scanning random space    
+- [ ] Nonce  
+- [ ] Immutable Work  
+- [ ] Chained effort  
+- [ ] One CPU, one vote  
+- [ ] The majority decision  
+- [ ] The honest chain  
+- [ ] Attacking the longest chain  
+- [ ] Controlling the block discovery rate  
 
 # Chapter 6: Network
 ## objective
-[ ] - Section read-through  
-[ ] - Running the Network  
-[ ] - The longest chain  
-[ ] - Simultaneous blocks  
-[ ] - Breaking the tie  
-[ ] - Missed messages  
+- [ ] Section read-through  
+- [ ] Running the Network  
+- [ ] The longest chain  
+- [ ] Simultaneous blocks  
+- [ ] Breaking the tie  
+- [ ] Missed messages  
 
 # Chapter 7: Incentive  
 ## objective  
-[ ] - The Coinbase Transaction  
-[ ] - Coin Distribution   
-[ ] - Mining analogy  
-[ ] - Transaction fees  
-[ ] - The end of inflation  
-[ ] - Encouraging honesty  
-[ ] - The attacker’s dilemma  
-[ ] - Incentive Video   
+- [ ] The Coinbase Transaction  
+- [ ] Coin Distribution   
+- [ ] Mining analogy  
+- [ ] Transaction fees  
+- [ ] The end of inflation  
+- [ ] Encouraging honesty  
+- [ ] The attacker’s dilemma  
+- [ ] Incentive Video   
 
 # Chapter 8: Reclaiming Disk Space 
 ## objective
-[ ] - Spent transactions  
-[ ] - The Merkle Tree  
-[ ] - Compacting blocks  
-[ ] - Block Headers  
+- [ ] Spent transactions  
+- [ ] The Merkle Tree  
+- [ ] Compacting blocks  
+- [ ] Block Headers  
 
 # Chapter 9: Simplified Payment Verification 
 ## objective  
-[ ] - Full network nodes○ 
-[ ] - Merkle Branches   
-[ ] - Transaction acceptance  
-[ ] - Verification during attack situations  
-[ ] - Maintaining an attack  
-[ ] - Invalid Block Relay System  
-[ ] - Businesses running nodes   
+- [ ] Full network nodes○ 
+- [ ] Merkle Branches   
+- [ ] Transaction acceptance  
+- [ ] Verification during attack situations  
+- [ ] Maintaining an attack  
+- [ ] Invalid Block Relay System  
+- [ ] Businesses running nodes  -  
 
-● Chapter 10: Combining and Splitting Value   
+# Chapter 10: Combining and Splitting Value   
 ## objective
-[ ] - Dynamically sized coins  
-[ ] - Inputs and Outputs    
-[ ] - A typical example  
-[ ] - Fan-out  
+- [ ] Dynamically sized coins  
+- [ ] Inputs and Outputs    
+- [ ] A typical example  
+- [ ] Fan-out  
 
 # Chapter 11: Privacy  
 ## objective  
-[ ] - Traditional Models  
-[ ] - Privacy in Bitcoin  
-[ ] - Public records  
-[ ] - Stock Exchange Comparison  
-[ ] - Key Re-use   
-[ ] - Linking inputs  
+- [ ] Traditional Models  
+- [ ] Privacy in Bitcoin  
+- [ ] Public records  
+- [ ] Stock Exchange Comparison  
+- [ ] Key Re-use   
+- [ ] Linking inputs  
 
 # Chapter 12: Calculations  
 ## objective  
-[ ] - Attacking the chain  
-[ ] - Things the attacker cannot achieve...  
-[ ] - The only thing the attacker can achieve...  
-[ ] - The Binomial Random Walk  
-[ ] - The Gambler’s Ruin  
-[ ] - Exponential odds  
-[ ] - Waiting for confirmation...  
-[ ] - Attack via proof of work  
-[ ] - Vanishing probabilities  
+- [ ] Attacking the chain  
+- [ ] Things the attacker cannot achieve...  
+- [ ] The only thing the attacker can achieve...  
+- [ ] The Binomial Random Walk  
+- [ ] The Gambler’s Ruin  
+- [ ] Exponential odds  
+- [ ] Waiting for confirmation...-   
+- [ ] Attack via proof of work  
+- [ ] Vanishing probabilities  
 
 # JavaScript
 - [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
