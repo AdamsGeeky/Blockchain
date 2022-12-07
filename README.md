@@ -27,6 +27,141 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 # Bitcoin theory
   - [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
   - [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
+
+# objective  
+# Chapter 1: Abstract (Approx 45 mins)  
+## objective  
+[ ] - Peer-to-peer cash  
+[ ] - Digital signatures and trusted third parties  
+[ ] - Peer to Peer network  
+[ ] - Time Chain and Proof of Work  
+[ ] - CPU Power  
+[ ] - Abstract Assessment No.2  
+[ ] - Cooperation in the network  
+[ ] - Network structure  
+[ ] - Messaging between nodes  
+
+# Chapter 2: Introduction (Approx 45 mins)  
+## objective  
+[ ] - Commerce on the internet  
+[ ] - Non reversible transactions  
+[ ] - Privacy in commerce  
+[ ] - The paradigm of fraud acceptance  
+[ ] - What is needed...  
+[ ] - Protecting sellers from fraud  
+[ ] - Proposed solution  
+[ ] - Security and honesty  
+
+# Chapter 3: Transactions (Approx 45 mins)  
+## objective  
+[ ] - Electronic Coins  
+[ ] - Spending a coin  
+[ ] - Transactions Assessment No.1  
+[ ] - Payee verification  
+[ ] - Existing solutions  
+[ ] - First Seen Rule  
+[ ] - Transactions Assessment No.2  
+[ ] - Broadcasting Transactions  
+[ ] - Achieving Consensus  
+[ ] - Proof of acceptance  
+
+
+# Chapter 4: Timestamp Server (Approx 15 mins)  
+## objective  
+[ ] - Timestamped Hashes  
+[ ] - A chain of timestamped hashes  
+[ ] - Timestamp Server Video  
+[ ] - Timestamp Server Assessment No.1  
+
+# Chapter 5: Proof of Work (Approx 60 mins)  
+## objective  
+[ ] - Hashcash  
+[ ] - Scanning random space  
+[ ] - Proof of Work Assessment No.1  
+[ ] - Nonce  
+[ ] - Immutable Work  
+[ ] - Chained effort  
+[ ] - Proof of Work Assessment No.2  
+[ ] - One CPU, one vote  
+[ ] - The majority decision  
+[ ] - The honest chain  
+[ ] - Proof of Work Assessment No.3  
+[ ] - Attacking the longest chain  
+[ ] - Controlling the block discovery rate  
+
+# Chapter 6: Network (Approx 45 mins)  
+## objective
+[ ] - Section read-through  
+[ ] - Running the Network  
+[ ] - Network Assessment No.1  
+[ ] - The longest chain  
+[ ] - Simultaneous blocks  
+[ ] - Network Assessment No.2○ 06 Breaking the tie  
+[ ] - Missed messages  
+
+# Chapter 7: Incentive (Approx 45 mins)  
+## objective  
+[ ] - The Coinbase Transaction  
+[ ] - Coin Distribution  
+[ ] - Incentive Assessment No.1  
+[ ] - Mining analogy  
+[ ] - Transaction fees  
+[ ] - The end of inflation  
+[ ] - Incentive Assessment No.2  
+[ ] - Encouraging honesty  
+[ ] - The attacker’s dilemma  
+[ ] - Incentive Video  
+[ ] - Incentive Assessment No.3  
+
+# Chapter 8: Reclaiming Disk Space (Approx 30 mins)  
+## objective
+[ ] - Spent transactions  
+[ ] - The Merkle Tree  
+[ ] - Reclaiming Disk Space Assessment No.1  
+[ ] - Compacting blocks  
+[ ] - Block Headers  
+# Chapter 9: Simplified Payment Verification (Approx 45 mins)  
+## objective  
+[ ] - Full network nodes○ 02 Merkle Branches  
+[ ] - Simplified Payment Verification Assessment No.1  
+[ ] - Transaction acceptance  
+[ ] - Verification during attack situations  
+[ ] - Maintaining an attack  
+[ ] - Simplified Payment Verification Assessment No.2  
+[ ] - Invalid Block Relay System  
+[ ] - Businesses running nodes   
+
+● Chapter 10: Combining and Splitting Value (Approx 30 mins)  
+## objective
+[ ] - Dynamically sized coins  
+[ ] - Inputs and Outputs  
+[ ] - Combining and Splitting Value Assessment No.1  
+[ ] - A typical example  
+[ ] - Fan-out  
+
+# Chapter 11: Privacy (Approx 45 mins)  
+## objective  
+[ ] - Traditional Models  
+[ ] - Privacy in Bitcoin  
+[ ] - Privacy Assessment No.1  
+[ ] - Public records  
+[ ] - Stock Exchange Comparison  
+[ ] - Key Re-use  
+[ ] - Privacy Assessment No.2  
+[ ] - Linking inputs  
+
+# Chapter 12: Calculations (Approx 60 mins)  
+## objective  
+[ ] - Attacking the chain  
+[ ] - Things the attacker cannot achieve...  
+[ ] - The only thing the attacker can achieve...  
+[ ] - The Binomial Random Walk  
+[ ] - The Gambler’s Ruin  
+[ ] - Exponential odds  
+[ ] - Waiting for confirmation...  
+[ ] - Attack via proof of work  
+[ ] - Vanishing probabilities  
+
 # JavaScript
 - [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [JavaScript Tutorial - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
@@ -35,6 +170,23 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+Objectives:
+
+Identify interactions on web pages created with JavaScript.
+Articulate, in general terms, the importance of how JavaScript was developed and how that impacts the way 
+[ ] - JavaScript is written.
+[ ] - Identify properly formed semantic HTML.
+[ ] - Articulate major concepts in CSS.
+[ ] - Identify properly formed CSS syntax.
+[ ] - Write simple JavaScript statements in the web browser console.
+[ ] - Assign and retrieve values from variables and arrays in JavaScript.
+
+Course Outline
+
+1.    Introduction to JavaScript
+2.    JavaScript Variables
+3.    JavaScript Arrays
+4.    Module Summary
 
   # Golang
 - [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
@@ -45,6 +197,46 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
 
 # Golang
+
+# objective writing code that incorporates RFCs and JSON. 
+# Overview
+## objective
+[ ] - Objects
+[ ] - Concurrency
+[ ] - Installing Go
+[ ] - Workspaces & Packages
+[ ] - Go Tool
+[ ] - Variables
+[ ] - Variable Initialization
+
+# Data Types
+## objective
+[ ] - Pointers
+[ ] - Variable Scope9m
+[ ] - Deallocating Memory5m
+[ ] - Garbage Collection5m
+[ ] - Comments, Printing, Integers7m
+[ ] - Ints, Floats, Strings9m
+[ ] - String Packages5m
+[ ] - Constants4m
+[ ] - Control Flow8m
+[ ] - Control Flow, Scan
+
+# Composite Data Types
+## objective
+[ ] - Arrays
+[ ] - Slices
+[ ] - Variable Slices
+[ ] - Hash Tables
+[ ] - Maps
+[ ] - Structs
+
+# Protocols and Formats
+## objective
+[ ] - RFCs
+[ ] - JSON
+[ ] - File Access, ioutil6m
+[ ] - File Access, os
 # Syllabus
 - [*] **An Introduction of Go - why Go is worth learning.**
   - [*]  **What is Go?**
