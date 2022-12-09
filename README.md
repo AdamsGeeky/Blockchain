@@ -31,12 +31,11 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 # objective  
 # Chapter 1: Abstract  
 ## objective  
-- [ ] Peer-to-peer cash  
-- [ ] Digital signatures and trusted third parties  
-- [ ] Peer to Peer network  
-- [ ] Time Chain and Proof of Work  
-- [ ] CPU Power  
-- [ ] Abstract Assessment No.2  
+- [x] Peer-to-peer cash  
+- [x] Digital signatures and trusted third parties  
+- [x] Peer to Peer network  
+- [x] Time Chain and Proof of Work  
+- [x] CPU Power   
 - [ ] Cooperation in the network  
 - [ ] Network structure  
 - [ ] Messaging between nodes  
