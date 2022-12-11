@@ -20,7 +20,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 # Pre-requisites
 - Git(version control system)
 - GitHub 
-- [Difference between Web1,Web2,Web3](https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article)
+- [Difference between Web1,Web2,Web3](https://geekink.hashnode.dev/blockchain-technologies)
 <details>
 <summary>The First 2 weeks </summary>
 
@@ -36,9 +36,9 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - [x] Peer to Peer network  
 - [x] Time Chain and Proof of Work  
 - [x] CPU Power   
-- [ ] Cooperation in the network  
-- [ ] Network structure  
-- [ ] Messaging between nodes  
+- [x] Cooperation in the network  
+- [x] Network structure  
+- [x] Messaging between nodes  
 
 # Chapter 2: Introduction 
 ## objective  
