@@ -147,14 +147,14 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - [ ] Attack via proof of work  
 - [ ] Vanishing probabilities  
 
+# Pre-requisites 
+
+- what is program
+- what is programming
+- what is programming language
+- what is compiler and interpreter
 # JavaScript
-- [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [JavaScript Tutorial - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [JavaScript Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/)
-- [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
-- [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
 Objectives:
 
 Identify interactions on web pages created with JavaScript.
@@ -173,49 +173,49 @@ Course Outline
 3.    JavaScript Arrays
 4.    Module Summary
 
-  # Golang
+# Golang
 Course Overview
 
 This course covers the fundamental elements of Go: data types, protocols, formats, and writing code that incorporates RFCs and JSON. 
 
-Course Outline
+# Course Outline
 
-● Overview
-        ○ Objects
-        ○ Concurrency
-        ○ Installing Go
-        ○ Workspaces & Packages
-        ○ Go Tool
-        ○ Variables
-        ○ Variable Initialization
+## Overview
+- [ ] Objects
+- [ ] Concurrency
+- [ ] Installing Go
+- [ ] Workspaces & Packages
+- [ ] Go Tool
+- [ ] Variables
+- [ ] Variable Initialization
 
-● Data Types
-        ○ Pointers
-        ○ Variable Scope9m
-        ○ Deallocating Memory5m
-        ○ Garbage Collection5m
-        ○ Comments, Printing, Integers7m
-        ○ Ints, Floats, Strings9m
-        ○ String Packages5m
-        ○ Constants4m
-        ○ Control Flow8m
-        ○ Control Flow, Scan
+## Data Types
+- [ ] Pointers
+- [ ] Variable Scope9m
+- [ ] Deallocating Memory5m
+- [ ] Garbage Collection5m
+- [ ] Comments, Printing, Integers7m
+- [ ] Ints, Floats, Strings9m
+- [ ] String Packages5m
+- [ ] Constants4m
+- [ ] Control Flow8m
+- [ ] Control Flow, Scan
 
-● Composite Data Types
-        ○ Arrays
-        ○ Slices
-        ○ Variable Slices
-        ○ Hash Tables
-        ○ Maps
-        ○ Structs
+## Composite Data Types
+- [ ] Arrays
+- [ ] Slices
+- [ ] Variable Slices
+- [ ] Hash Tables
+- [ ] Maps
+- [ ] Structs
 
-● Protocols and Formats
-        ○ RFCs
-        ○ JSON
-        ○ File Access, ioutil6m
-        ○ File Access, os
+## Protocols and Formats
+- [ ] RFCs
+- [ ] JSON
+- [ ] File Access, ioutil6m
+- [ ] File Access, os
 
-# Golang  **Build simple, secure, scalable systems**
+<!-- # Golang  **Build simple, secure, scalable systems**
 # Syllabus
 - [x] **An Introduction of Go - why Go is worth learning.**
   - [x]  **What is Go?**
@@ -282,7 +282,7 @@ Course Outline
 ## Memory Related
 - [ ] Memory Blocks
 - [ ] Memory Layouts
-- [ ] Memory Leaking Scenarios
+- [ ] Memory Leaking Scenarios -->
 
 </details>
 <details>
