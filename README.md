@@ -285,13 +285,6 @@ Course Outline
 - [ ] Memory Leaking Scenarios
 
 </details>
-# Resources
-- [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
-- [Getting started - Go](https://go.dev/learn/)
-- [Go tutorial - Tutorials point](https://www.tutorialspoint.com/go/index.htm)
-- [Go tutorial - W3schools](https://www.w3schools.com/go/)
-- [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
-- [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
 <details>
 <summary>Bitcoin blockchain for 5 weeks </summary>
 </details>
