@@ -174,12 +174,46 @@ Course Outline
 4.    Module Summary
 
   # Golang
-- [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
-- [Getting started - Go](https://go.dev/learn/)
-- [Go tutorial - Tutorials point](https://www.tutorialspoint.com/go/index.htm)
-- [Go tutorial - W3schools](https://www.w3schools.com/go/)
-- [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
-- [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
+Course Overview
+
+This course covers the fundamental elements of Go: data types, protocols, formats, and writing code that incorporates RFCs and JSON. 
+
+Course Outline
+
+● Overview
+        ○ Objects
+        ○ Concurrency
+        ○ Installing Go
+        ○ Workspaces & Packages
+        ○ Go Tool
+        ○ Variables
+        ○ Variable Initialization
+
+● Data Types
+        ○ Pointers
+        ○ Variable Scope9m
+        ○ Deallocating Memory5m
+        ○ Garbage Collection5m
+        ○ Comments, Printing, Integers7m
+        ○ Ints, Floats, Strings9m
+        ○ String Packages5m
+        ○ Constants4m
+        ○ Control Flow8m
+        ○ Control Flow, Scan
+
+● Composite Data Types
+        ○ Arrays
+        ○ Slices
+        ○ Variable Slices
+        ○ Hash Tables
+        ○ Maps
+        ○ Structs
+
+● Protocols and Formats
+        ○ RFCs
+        ○ JSON
+        ○ File Access, ioutil6m
+        ○ File Access, os
 
 # Golang  **Build simple, secure, scalable systems**
 # Syllabus
@@ -251,7 +285,13 @@ Course Outline
 - [ ] Memory Leaking Scenarios
 
 </details>
-
+# Resources
+- [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
+- [Getting started - Go](https://go.dev/learn/)
+- [Go tutorial - Tutorials point](https://www.tutorialspoint.com/go/index.htm)
+- [Go tutorial - W3schools](https://www.w3schools.com/go/)
+- [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+- [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
 <details>
 <summary>Bitcoin blockchain for 5 weeks </summary>
 </details>
