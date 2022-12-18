@@ -31,7 +31,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 # objective  
 # Chapter 1: Abstract  
 ## objective  
-- [x] Peer-to-peer cash  
+- [x] Peer-to-peer cash   
 - [x] Digital signatures and trusted third parties  
 - [x] Peer to Peer network  
 - [x] Time Chain and Proof of Work  
@@ -42,18 +42,18 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 
 # Chapter 2: Introduction 
 ## objective  
-- [ ] Commerce on the internet  
-- [ ] Non reversible transactions  
-- [ ] Privacy in commerce  
-- [ ] The paradigm of fraud acceptance  
-- [ ] What is needed...  
-- [ ] Protecting sellers from fraud  
-- [ ] Proposed solution  
-- [ ] Security and honesty  
+- [x] **Commerce on the internet**  
+- [x] Non reversible transactions  
+- [x] Privacy in commerce  
+- [x] The paradigm of fraud acceptance  
+- [x] **What is needed** is an Electronic payment system based on Cryptographic proof instead of trust    allowing any two willing parties to transact directly with each other without the need of trusted third party(**Bank**)   
+- [x] Protecting sellers from fraud  
+- [x] Proposed solution  
+- [x] Security and honesty  
 
 # Chapter 3: Transactions  
 ## objective  
-- [ ] Electronic Coins  
+- [x] **Electronic Coins**: is the chain of Digital signature  
 - [ ] Spending a coin  
 - [ ] Payee verification  
 - [ ] Existing solutions  
@@ -158,13 +158,15 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 Objectives:
 
 Identify interactions on web pages created with JavaScript.
-Articulate, in general terms, the importance of how JavaScript was developed and how that impacts the way 
-[ ] - JavaScript is written.
-[ ] - Identify properly formed semantic HTML.
-[ ] - Articulate major concepts in CSS.
-[ ] - Identify properly formed CSS syntax.
-[ ] - Write simple JavaScript statements in the web browser console.
-[ ] - Assign and retrieve values from variables and arrays in JavaScript.
+ Articulate, in general terms,
+the importance of how JavaScript was developed and how that impacts the way 
+
+- [ ] JavaScript is written.
+- [ ] Identify properly formed semantic HTML.
+- [ ] Articulate major concepts in CSS.
+- [ ] Identify properly formed CSS syntax.
+- [ ] Write simple JavaScript statements in the web browser console.
+- [ ] Assign and retrieve values from variables and arrays in JavaScript.
 
 Course Outline
 
@@ -177,13 +179,36 @@ Course Outline
 Course Overview
 
 This course covers the fundamental elements of Go: data types, protocols, formats, and writing code that incorporates RFCs and JSON. 
+<details>
+<summary>An Introduction of Go - why Go is worth learning</summary>
+
+# Golang  **Build simple, secure, scalable systems**
+
+- [x]  **What is Go?**
+     Go, or Golang, is a programming language developed at Google. It has received a lot of acclaim from developers for its speed and straightforward syntax.
+    - An open-source programming language supported by Google
+    - Easy to learn and great for teams
+    - Built-in concurrency and a robust standard library
+    - Large ecosystem of partners, communities, and tools
+  - [x] Why Go is worth Learning 
+        GoLang is a compiled multi-threaded programming language based on open source C and developed internally at Google. It is a single language that         allows different processes to run simultaneously, which means simultaneous programming. Extremely fast, easy to maintain, and efficient, GoLang           has all the advantages needed for **distributed systems** because it can handle **multiple parts of the blockchain concurrently.**
+        The language was developed for **high-performance programs running** on modern **distributed systems** and **multicore processors**. Market               participants perceived the launch of GoLang as an attempt to create a replacement for C/C ++. Today, the **Hyperledger Fabric blockchain**               platform uses this programming language. It is often used in **NFT marketplace** development. 
+        Examples of blockchain projects that use GoLang: **GoChain**, **Dero**, **Loom Network**, **Ethereum**, **Hyperledger Fabric**. .
+</details>
+
 
 # Course Outline
 
 ## Overview
 - [ ] Objects
 - [ ] Concurrency
-- [ ] Installing Go
+- [x] Installing Go
+    - [x] **Setting Up Go Locally**
+        Installing Go and Running Go Programs
+        Developing Go locally on your own environment is a big step towards creating your very own Go projects and exercising your imagination!
+        This guide will assume some knowledge of the **command line** and use of a code editor **(we recommend VSCode),** so brush up if you need too!
+        First, downland Go to your computer by going to Golang’s download page and select your operating system under the Featured downloads section.
+    - [] **how to compile and run Go programs.**
 - [ ] Workspaces & Packages
 - [ ] Go Tool
 - [ ] Variables
@@ -191,14 +216,14 @@ This course covers the fundamental elements of Go: data types, protocols, format
 
 ## Data Types
 - [ ] Pointers
-- [ ] Variable Scope9m
-- [ ] Deallocating Memory5m
-- [ ] Garbage Collection5m
-- [ ] Comments, Printing, Integers7m
-- [ ] Ints, Floats, Strings9m
-- [ ] String Packages5m
-- [ ] Constants4m
-- [ ] Control Flow8m
+- [ ] Variable Scope 9m
+- [ ] Deallocating Memory 5m
+- [ ] Garbage Collection 5m
+- [ ] Comments, Printing, Integers 7m
+- [ ] Ints, Floats, Strings 9m
+- [ ] String Packages 5m
+- [ ] Constants 4m
+- [ ] Control Flow 8m
 - [ ] Control Flow, Scan
 
 ## Composite Data Types
@@ -215,26 +240,7 @@ This course covers the fundamental elements of Go: data types, protocols, format
 - [ ] File Access, ioutil6m
 - [ ] File Access, os
 
-<!-- # Golang  **Build simple, secure, scalable systems**
-# Syllabus
-- [x] **An Introduction of Go - why Go is worth learning.**
-  - [x]  **What is Go?**
-     Go, or Golang, is a programming language developed at Google. It has received a lot of acclaim from developers for its speed and straightforward syntax.
-    - An open-source programming language supported by Google
-    - Easy to learn and great for teams
-    - Built-in concurrency and a robust standard library
-    - Large ecosystem of partners, communities, and tools
-  - [x] Why Go is worth Learning 
-        GoLang is a compiled multi-threaded programming language based on open source C and developed internally at Google. It is a single language that         allows different processes to run simultaneously, which means simultaneous programming. Extremely fast, easy to maintain, and efficient, GoLang           has all the advantages needed for **distributed systems** because it can handle **multiple parts of the blockchain concurrently.**
-        The language was developed for **high-performance programs running** on modern **distributed systems** and **multicore processors**. Market               participants perceived the launch of GoLang as an attempt to create a replacement for C/C ++. Today, the **Hyperledger Fabric blockchain**               platform uses this programming language. It is often used in **NFT marketplace** development. 
-        Examples of blockchain projects that use GoLang: **GoChain**, **Dero**, **Loom Network**, **Ethereum**, **Hyperledger Fabric**. .
-
-- [x] The Go Toolchain - how to compile and run Go programs.
-  - [x] **Setting Up Go Locally**
-        Installing Go and Running Go Programs
-        Developing Go locally on your own environment is a big step towards creating your very own Go projects and exercising your imagination!
-        This guide will assume some knowledge of the **command line** and use of a code editor **(we recommend VSCode),** so brush up if you need too!
-        First, downland Go to your computer by going to Golang’s download page and select your operating system under the Featured downloads section.
+<!-- 
 
 - [ ] Become Familiar With Go Code
 - [ ] Introduction of Source Code Elements
