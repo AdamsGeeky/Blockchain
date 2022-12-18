@@ -148,11 +148,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - [ ] Vanishing probabilities  
 
 # Pre-requisites 
-
-- what is program
-- what is programming
-- what is programming language
-- what is compiler and interpreter
+- [what is program, programming,programming language,compiler and interpreter](https://geekink.hashnode.dev/programming-fundamentals)
 # JavaScript
 
 Objectives:
