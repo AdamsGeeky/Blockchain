@@ -42,14 +42,54 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 
 # Chapter 2: Introduction 
 ## objective  
-- [x] **Commerce on the internet**  
-- [x] Non reversible transactions  
-- [x] Privacy in commerce  
-- [x] The paradigm of fraud acceptance  
-- [x] **What is needed** is an Electronic payment system based on Cryptographic proof instead of trust    allowing any two willing parties to transact directly with each other without the need of trusted third party(**Bank**)   
-- [x] Protecting sellers from fraud  
-- [x] Proposed solution  
-- [x] Security and honesty  
+ 
+<details>
+<summary>Commerce on the internet</summary>
+has come to rely  almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transaction, it still suffers from the inherent weaknesses of te the trust-based model such as:
+
+- hight transaction cost
+- Transaction par Day Limit
+- 
+</details>
+<details>
+<summary>Non reversible transactions </summary>
+completely non-reversible transaction are not possible, since financials
+ instaituion cannot avoid mediating disputes. the cost of mediating increases transactions costs, limiting the minimum practical transaction size and cutting off the possibility fr small casual transactions and there is a broader cost in the loss of ability to make non-reversible payments for non-reversible services
+</details>
+<details>
+<summary>Privacy in commerce  </summary>
+with the possibility of reversal, the need for trust spreads. Merchants who be wary of their customers, hassling them for move information than they would otherwise need.
+
+this bring a huge problem for privacy of the good actor within the system, as their identity details often end up being stored in large merchant database with their corresponding payment details 
+</details>
+<details>
+<summary>The paradigm of fraud acceptance </summary>
+A certain percentage of fraud is accepted as unavoidable (traditional payment system). there cost and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
+</details>
+
+# Blockchain And bitcoin solve all the Above mention problems
+
+<details>
+<summary>What is needed</summary>
+is an Electronic payment system based on Cryptographic proof instead of trust allowing any two willing parties to transact directly with each other without the need of trusted third party **Bank**
+
+bitcoin achieve this by using digital signature and a simple but fully feature scripting language 
+
+by using Bitcoin receive can quickly and simply validate that funds were indeed controlled(that is they own it) by the sending party and that the transaction correctly allocate the amount to their control without additional validation by third parties
+</details>
+
+<details>
+<summary> Protecting sellers from fraud  </summary>
+
+</details>
+
+<details>
+<summary>Proposed solution  </summary>
+</details>
+
+<details>
+<summary>Security and honesty</summary>
+</details>
 
 # Chapter 3: Transactions  
 ## objective  
