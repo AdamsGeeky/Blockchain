@@ -25,8 +25,9 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 <summary>The First 2 weeks </summary>
 
 # Bitcoin theory
-  - [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
-  - [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
+
+- [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
+- [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
 
 # objective  
 # Chapter 1: Abstract  
