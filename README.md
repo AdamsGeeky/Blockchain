@@ -67,7 +67,7 @@ this bring a huge problem for privacy of the good actor within the system, as th
 A certain percentage of fraud is accepted as unavoidable (traditional payment system). there cost and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
 </details>
 
-# Blockchain And bitcoin solve all the Above mention problems
+# bitcoin solve all the Above mention problems
 
 <details>
 <summary>What is needed</summary>
