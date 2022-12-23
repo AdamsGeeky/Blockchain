@@ -21,6 +21,7 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 - Git(version control system)
 - GitHub 
 - [Difference between Web1,Web2,Web3](https://geekink.hashnode.dev/blockchain-technologies)
+
 <details>
 <summary>The First 2 weeks </summary>
 
@@ -187,6 +188,8 @@ by using Bitcoin receive can quickly and simply validate that funds were indeed 
 - [ ] Waiting for confirmation...-   
 - [ ] Attack via proof of work  
 - [ ] Vanishing probabilities  
+
+</details>
 
 # Pre-requisites 
 - [what is program, programming,programming language,compiler and interpreter](https://geekink.hashnode.dev/programming-fundamentals)
