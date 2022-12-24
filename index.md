@@ -1,223 +1,119 @@
-# NITDABlockchainScholarship(non officially) Study plan
-
-“If You Fail to Plan, You Are Planning to Fail” — Benjamin Franklin.
-
 "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do." 
 
-<img align="center" alt="Coding" src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif">
+Basic terminology in Programming
 
-# onboarding 
+Before we go through Golang and Javascript coding, and all the good stuff that comes with it, it's essential to understand how computers understand the program that humans write. Hence, we will go through some basic terminology and concepts that will make your foundation concepts robust. Additionally, you can apply these concepts to any programming language and not just Golang or javascript. So without further ado, let's get started!
 
-programme will start on **8 December 2022**, where you will delve deeper into the programme and complete a series of assignments. 
-If you finish among the top 30% of the class, you will be onboarded into the main blockchain programme.
+what is a Program?
 
+program is set of instructions given to a computer to perform specific tasks. The collection of instructions in a file is also known as **source code**. It's a file that has separate extensions like .go, .js, .mod, etc., for Golang, javascript, golang modules respectively. Below is an example simple Golang program.
 
-<img align="center" alt="Coding" src="https://media.giphy.com/media/kFHbj8jN52UcpsPcyi/giphy.gif">
+package main
 
-# Core curriculum: 
+import "fmt"
 
-must prove your capabilities in the first 2 weeks by getting a cumulative score that puts you in the 30th percentile in all quizzes and projects in that period in order to progress in the programme. If you don’t meet this requirement, you will no longer be part of the programme after 2 weeks.
-# Pre-requisites
-- Git(version control system)
-- GitHub 
-- [Difference between Web1,Web2,Web3](https://geekink.hashnode.dev/blockchain-technologies)
-<details>
-<summary>The First 2 weeks </summary>
+func main() {
+	fmt.Println("Hello World!")
+}
 
-# Bitcoin theory
-  - [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
-  - [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
+Don't worry about the program. We will learn to write programs in subsequent articles. The program or instructions which we are trying to write in a high-level programming language is also known as source code. There are many names for the code we write. Please make sure you don't get confused with the names
 
-# objective  
-# Chapter 1: Abstract  
-## objective  
-- [x] Peer-to-peer cash   
-- [x] Digital signatures and trusted third parties  
-- [x] Peer to Peer network  
-- [x] Time Chain and Proof of Work  
-- [x] CPU Power   
-- [x] Cooperation in the network  
-- [x] Network structure  
-- [x] Messaging between nodes  
+What is Programming?
 
-# Chapter 2: Introduction 
-## objective  
- 
-<details>
-<summary>Commerce on the internet</summary>
-has come to rely  almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transaction, it still suffers from the inherent weaknesses of te the trust-based model such as:
+is the act of Writing a set of instructions for a specific task to be done by the computer is known as Programming.
 
-- hight transaction cost
-- Transaction par Day Limit
-- 
-</details>
-<details>
-<summary>Non reversible transactions </summary>
-completely non-reversible transaction are not possible, since financials
- instaituion cannot avoid mediating disputes. the cost of mediating increases transactions costs, limiting the minimum practical transaction size and cutting off the possibility fr small casual transactions and there is a broader cost in the loss of ability to make non-reversible payments for non-reversible services
-</details>
-<details>
-<summary>Privacy in commerce  </summary>
-with the possibility of reversal, the need for trust spreads. Merchants who be wary of their customers, hassling them for move information than they would otherwise need.
+Computers are fast, cheap, high accuracy and lightning speed
 
-this bring a huge problem for privacy of the good actor within the system, as their identity details often end up being stored in large merchant database with their corresponding payment details 
-</details>
-<details>
-<summary>The paradigm of fraud acceptance </summary>
-A certain percentage of fraud is accepted as unavoidable (traditional payment system). there cost and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
-</details>
+Do computers complete a task by themselves?
 
-# bitcoin solve all the Above mention problems
+No, they can't perform without the help of humans. We have to give instructions to the computer to perform specific tasks.
+
+What is a Programming Language?
+
+Computers don't understand our languages like Hausa, Yoruba, English, etc. Computers only understand 0's and 1's. The vocabulary, which consists of 0's and 1's, is called Machine Language also known as Low-Level Language
+
+It's challenging for us to write instructions in 0's and 1's. Therefore, we humans created a style to give instructions to the computers for the completion of specific tasks, i.e., **Programming Language.** Programming languages are also known as High-Level Languages, which can be understood by human beings.
+
+Some of the High-Level programming languages are Golang, JavaScript, Python, C++, etc.
+
+There is another language called Assembly Language, which converts our human-readable code, i.e., programming language to an assembly-level language. Assembly language is also known as low-level language. It is mostly used for microprocessors and programmable devices, which directly deal with the hardware. In addition to this, we don't have to know much about assembly-level language now. You can take the help of the internet in case you need to learn more about it.
+
+Terminology
+
+Every language, including Natural Languages, which we are using in our daily conversations, has some rules to follow. Let's see them one by one.
+
+Alphabets
+
+Any language in this world has a particular set of symbols to form words. English has English alphabets Moreover, Alphabets are building blocks of the language. likewise, programming language makes use of English alphabets and symbols in a special way
+
+Lexis
+
+A collection of words that a language has to create sentences. Prepositions, Articles, etc. in English.
+
+In programming, we call them keywords. Every programming language has a set of predefined words that we need to use to write instructions.
+
+The following keywords are reserved and may not be used as identifiers.
+```go
+break        default      func         interface    select case         defer        go           map          struct chan         else         goto         package      switch const        fallthrough  if           range        type continue     for          import       return       var
+```
 
 <details>
-<summary>What is needed</summary>
-is an Electronic payment system based on Cryptographic proof instead of trust allowing any two willing parties to transact directly with each other without the need of trusted third party **Bank**
+<summary>Syntax</summary>
 
-bitcoin achieve this by using digital signature and a simple but fully feature scripting language 
-
-by using Bitcoin receive can quickly and simply validate that funds were indeed controlled(that is they own it) by the sending party and that the transaction correctly allocate the amount to their control without additional validation by third parties
+A set of rules to examine whether the sentence is valid or not. We need to arrange the words of a language in a well-defined format to form correct sentences. In the same manner, we need to write instructions for the computer that are valid and should be understood by the computer. Moreover, the arrangement of words and phrases to create well-formed sentences in a language happens. In the context of computers, it refers to the proper ordering of symbols and codes which, in turn, helps the computer to understand what instructions are telling it to do.
 </details>
 
 <details>
-<summary> Protecting sellers from fraud  </summary>
+<summary>Semantics</summary>
 
+A set of rules to examine whether a phrase is making any sense or not. We need to create sentences that make sense to use. Therefore, in programming, we need to make sure our instructions are well-semantic. We will know more about the above terminology in terms of programming in detail when we start writing the code. Don't bother about the vocabulary, even if you don't understand it now.
+</details>
+
+# How to execute Programs?
+
+Now that we have written a program(source code), what to do with it. We have to run it to get the output. To execute our programs, we need a tool i.e.,
+
+1. Compiler, or Interpreter.
+
+2. Text Editor
+
+3. IDE (Integrated Development Environment)
+
+
+<details>
+<summary>What is a Compiler?</summary>
+
+A compiler is a software application that takes the set of instructions(program) you have written and validates them according to the language syntax. If everything is good, it will give you the output. The compiler will throw errors if the code is not valid. Moreover, different programming languages have different compilers. Languages like Golang use Go compiler C, C++, use the GCC compilers respectively to execute the programs.
+
+Additionally, the compiler will go through different stages in the execution process. In the end, it converts the instructions into Machine Language that can be understood by the computer. It generates an executable file. Therefore, we don't have to execute the program every time to see the result.
 </details>
 
 <details>
-<summary>Proposed solution  </summary>
+<summary>What is an Interpreter in Programming?</summary>
+
+An interpreter is also similar to a compiler. It validates the syntax and gives you the result if everything is correct.
+
+Languages like javascript, Python, etc. use the interpreter. It converts the source code into an intermediate form and then executes it. Additionally, we have to run the program every time to see the result.
 </details>
 
 <details>
-<summary>Security and honesty</summary>
+<summary> Text Editor </summary>
+
+A text editor is a type of computer program that edits plain text. Such programs are sometimes known as "notepad" software (e.g. Windows Notepad). Text editors are provided with operating systems and software development packages, and can be used to change files such as configuration files, documentation files and programming language source code.
+
+# IDE (Integrated Development Environment)
+
+An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development.
+
+An IDE normally consists of at least a source code editor, build automation tools and a debugger. Some IDEs, such as NetBeans and Eclipse, contain the necessary compiler, interpreter, or both.
+
 </details>
 
-# Chapter 3: Transactions  
-## objective  
-- [x] **Electronic Coins**: is the chain of Digital signature  
-- [ ] Spending a coin  
-- [ ] Payee verification  
-- [ ] Existing solutions  
-- [ ] First Seen Rule  
-- [ ] Broadcasting Transactions  
-- [ ] Achieving Consensus  
-- [ ] Proof of acceptance  
-
-
-# Chapter 4: Timestamp Server )  
-## objective  
-- [ ] Timestamped Hashes  
-- [ ] A chain of timestamped hashes  
-- [ ] Timestamp Server Video  
-
-# Chapter 5: Proof of Work  
-## objective  
-- [ ] Hashcash  
-- [ ] Scanning random space    
-- [ ] Nonce  
-- [ ] Immutable Work  
-- [ ] Chained effort  
-- [ ] One CPU, one vote  
-- [ ] The majority decision  
-- [ ] The honest chain  
-- [ ] Attacking the longest chain  
-- [ ] Controlling the block discovery rate  
-
-# Chapter 6: Network
-## objective
-- [ ] Section read-through  
-- [ ] Running the Network  
-- [ ] The longest chain  
-- [ ] Simultaneous blocks  
-- [ ] Breaking the tie  
-- [ ] Missed messages  
-
-# Chapter 7: Incentive  
-## objective  
-- [ ] The Coinbase Transaction  
-- [ ] Coin Distribution   
-- [ ] Mining analogy  
-- [ ] Transaction fees  
-- [ ] The end of inflation  
-- [ ] Encouraging honesty  
-- [ ] The attacker’s dilemma  
-- [ ] Incentive Video   
-
-# Chapter 8: Reclaiming Disk Space 
-## objective
-- [ ] Spent transactions  
-- [ ] The Merkle Tree  
-- [ ] Compacting blocks  
-- [ ] Block Headers  
-
-# Chapter 9: Simplified Payment Verification 
-## objective  
-- [ ] Full network nodes○ 
-- [ ] Merkle Branches   
-- [ ] Transaction acceptance  
-- [ ] Verification during attack situations  
-- [ ] Maintaining an attack  
-- [ ] Invalid Block Relay System  
-- [ ] Businesses running nodes  -  
-
-# Chapter 10: Combining and Splitting Value   
-## objective
-- [ ] Dynamically sized coins  
-- [ ] Inputs and Outputs    
-- [ ] A typical example  
-- [ ] Fan-out  
-
-# Chapter 11: Privacy  
-## objective  
-- [ ] Traditional Models  
-- [ ] Privacy in Bitcoin  
-- [ ] Public records  
-- [ ] Stock Exchange Comparison  
-- [ ] Key Re-use   
-- [ ] Linking inputs  
-
-# Chapter 12: Calculations  
-## objective  
-- [ ] Attacking the chain  
-- [ ] Things the attacker cannot achieve...  
-- [ ] The only thing the attacker can achieve...  
-- [ ] The Binomial Random Walk  
-- [ ] The Gambler’s Ruin  
-- [ ] Exponential odds  
-- [ ] Waiting for confirmation...-   
-- [ ] Attack via proof of work  
-- [ ] Vanishing probabilities  
-
-# Pre-requisites 
-- [what is program, programming,programming language,compiler and interpreter](https://geekink.hashnode.dev/programming-fundamentals)
-# JavaScript
-
-Objectives:
-
-Identify interactions on web pages created with JavaScript.
- Articulate, in general terms,
-the importance of how JavaScript was developed and how that impacts the way 
-
-- [ ] JavaScript is written.
-- [ ] Identify properly formed semantic HTML.
-- [ ] Articulate major concepts in CSS.
-- [ ] Identify properly formed CSS syntax.
-- [ ] Write simple JavaScript statements in the web browser console.
-- [ ] Assign and retrieve values from variables and arrays in JavaScript.
-
-Course Outline
-
-1.    Introduction to JavaScript
-2.    JavaScript Variables
-3.    JavaScript Arrays
-4.    Module Summary
-
-# Golang
-Course Overview
 
 This course covers the fundamental elements of Go: data types, protocols, formats, and writing code that incorporates RFCs and JSON. 
 <details>
 <summary>An Introduction of Go - why Go is worth learning</summary>
-
+</details>
 # Golang  **Build simple, secure, scalable systems**
 
 - [x]  **What is Go?**
@@ -275,63 +171,3 @@ This course covers the fundamental elements of Go: data types, protocols, format
 - [ ] JSON
 - [ ] File Access, ioutil6m
 - [ ] File Access, os
-
-<!-- 
-
-- [ ] Become Familiar With Go Code
-- [ ] Introduction of Source Code Elements
-- [ ] Keywords and Identifiers
-- [ ] Basic Types and Their Value
-- [ ] Constants and Variables - also introduces untyped values and type deductions.
-- [ ] Common Operators - also introduces more type deduction rules.
-- [ ] Function Declarations and Calls
-- [ ] Code Packages and Package Imports
-- [ ] Expressions, Statements and Simple Statements
-- [ ] Basic Control Flows
-- [ ] Goroutines, Deferred Function Calls 
-## Go Type System
-- [ ] Go Type System Overview - a must read to master Go programming.
-- [ ] Pointers
-- [ ] Structs
-- [ ] Value Parts - to gain a deeper understanding into Go values.
-- [ ] Arrays, Slices and Maps - first-class citizen container types.
-- [ ] Strings
-- [ ] Functions - function types and values, including variadic functions.
-- [ ] Channels - the Go way to do concurrency synchronizations.
-- [ ] Methods
-- [ ] Interfaces - value boxes used to do reflection and polymorphism.
-- [ ] Type Embedding - type extension in the Go way.
-- [ ] Type-Unsafe Pointers
-- [ ] Generics - use and read composite types
-- [ ] Reflections - the reflect standard package.
-- [ ] Some Special Topics
-- [ ] Line Break Rules
-- [ ] More About Deferred Function Calls
-- [ ] Some Panic/Recover Use Cases
-- [ ] Explain Panic/Recover Mechanism in Detail - also explains exiting phases of function calls.
-- [ ] Code Blocks and Identifier Scopes
-- [ ] Expression Evaluation Orders
-- [ ] Value Copy Costs in Go
-- [ ] Bounds Check Elimination
-## Concurrent Programming
-- [ ] Concurrency Synchronization Overview
-- [ ] Channel Use Cases
-- [ ] How to Gracefully Close Channels
-- [ ] Other Concurrency Synchronization Techniques - the sync standard package.
-- [ ] Atomic Operations - the sync/atomic standard package.
-- [ ] Memory Order Guarantees in Go
-- [ ] Common Concurrent Programming Mistakes
-## Memory Related
-- [ ] Memory Blocks
-- [ ] Memory Layouts
-- [ ] Memory Leaking Scenarios -->
-
-</details>
-<details>
-<summary>Bitcoin blockchain for 5 weeks </summary>
-</details>
-
-<details>
-<summary> project for 5 weeks</summary>
-</details>
-<img align="center" alt="Coding"  src="https://media.giphy.com/medial4JyY0qtljTlczOwM/giphy.gif" >
