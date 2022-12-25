@@ -9,7 +9,7 @@ const config = {
   title: 'Geek Ink',
   tagline: 'Blockchain',
   url: 'https://github.io',
-  baseUrl: '/',
+  baseUrl: '/Blockchain/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
