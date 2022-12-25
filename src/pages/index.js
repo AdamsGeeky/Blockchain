@@ -15,11 +15,12 @@ function HomepageHeader() {
          <p className="hero__subtitle">
           <Typewriter 
            options={{
-             strings: ['You can’t manage knowledge — nobody can.', 'What you can do is to manage the environment in which knowledge can be created', 'discovered, captured, shared, distilled, validated, transferred, adopted, adapted, and applied'],
+             strings: ['You cant manage knowledge — nobody can. What you can do is to manage the environment in which knowledge can be created', 'discovered, captured, shared, distilled, validated, transferred, adopted, adapted, and applied'],
              autoStart: true,
              loop: true,
            }}/>
           </p>
+
           <div className="bground">
           <img src={require('../../static/img/AdamsGeeky.png').default}  />
        

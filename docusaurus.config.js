@@ -82,7 +82,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: '',
+            href: 'https://github.com/AdamsGeeky/Blockchain',
             label: 'GitHub',
             position: 'right',
           },
