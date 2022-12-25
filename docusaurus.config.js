@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Geek Ink',
   tagline: 'Blockchain',
-  url: 'https://adamsgeeky.github.io',
+  url: 'https://github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
