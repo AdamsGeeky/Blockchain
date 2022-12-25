@@ -4,32 +4,39 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Listen',
+    Svg: require('@site/static/img/bitcoin.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       The first step in knowledge is to listen, 
+       then to be quiet and attentive, then to preserve it, 
+       then to put it into practice and then to spread it.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Preserve',
+    Svg: require('@site/static/img/nakamoto.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Education is a process of transferring various skills and knowledge from 
+       one generation to another with the help of training and teaching.
+        It plays a dominant role in an individual’s life,
+         it is like a power which can be used to bring an actual ‘change’
+          in the world.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'practice',
+    Svg: require('@site/static/img/ptp.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      People today distinguish between knowledge and action and pursue them separately, believing that 
+      one must know before he can act... They say [they will wait] till they truly know before 
+      putting their knowledge into practice. Consequently to the end of their lives, 
+      they will never act and also will never know.
+        
       </>
     ),
   },
