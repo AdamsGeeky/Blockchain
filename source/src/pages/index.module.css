@@ -15,8 +15,7 @@
     padding: 2rem;
   }
 }
-
-.buttons {
+.bground{
   display: flex;
   align-items: center;
   justify-content: center;
