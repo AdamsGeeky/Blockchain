@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Listen',
+    title: 'peer to peer',
     Svg: require('@site/static/img/bitcoin.svg').default,
     description: (
       <>
@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Preserve',
+    title: 'network',
     Svg: require('@site/static/img/nakamoto.svg').default,
     description: (
       <>
@@ -28,7 +28,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'practice',
+    title: 'bitcoin',
     Svg: require('@site/static/img/ptp.svg').default,
     description: (
       <>

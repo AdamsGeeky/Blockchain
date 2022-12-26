@@ -20,7 +20,8 @@ function HomepageHeader() {
            }}/>
           </p>
          <div className="bground">
-          <img src={require('../../static/img/AdamsGeeky.png').default}  />
+          <img src={require('../../static/img/btc.png').default}  />
+          
         </div>
       </div>
     </header>
