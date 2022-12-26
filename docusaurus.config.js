@@ -48,18 +48,13 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-SF31X84ZBH',
+          anonymizeIP: true,
+        },
       }),
-     ],
-  ],
-/** plugins **/
-  plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-SF31X84ZBH',
-      },
     ],
-  ],
+],
   /** Diagram **/
   markdown: {
     mermaid: true,
