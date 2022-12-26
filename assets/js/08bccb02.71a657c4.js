@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksource=self.webpackChunksource||[]).push([[9800],{3681:a=>{a.exports=JSON.parse('{"label":"software","permalink":"/Blockchain/blog/tags/software","allTagsPath":"/Blockchain/blog/tags","count":1}')}}]);
