@@ -4,7 +4,11 @@ sidebar_position: 1
 
 # Git and Github
 
+![](../../../static/img/git/github.png)
+
 **Git** is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your computer.
+
+![](../../../static/img/git/git.png)
 
 **Version Control System** (VCS) is a software that helps software developers to work together and maintain a complete history of their work.
 

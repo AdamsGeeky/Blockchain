@@ -61,9 +61,21 @@ const config = {
       },
     ],
   ],
+  /** Diagram **/
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      mermaid: {
+        theme: {light: 'neutral', dark: 'forest'},
+        // options: {
+        //   maxTextSize: 50,
+        // },
+      },
       navbar: {
         title: 'Geek ink',
         logo: {
@@ -128,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AdamsGeeky`,
       },
       prism: {
         theme: lightCodeTheme,
