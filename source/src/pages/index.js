@@ -15,7 +15,7 @@ function HomepageHeader() {
          <p className="hero__subtitle">
           <Typewriter 
            options={{
-             strings: ['You cant manage knowledge — nobody can. What you can do is to manage the environment in which knowledge can be created', 'discovered, captured, shared, distilled, validated, transferred, adopted, adapted, and applied'],
+             strings: ['You cant manage knowledge — nobody can. What you can do is to manage the environment', 'in which knowledge can be created discovered, captured, shared, distilled', 'validated, transferred, adopted, adapted, and applied'],
              autoStart: true,
              loop: true,
            }}/>
