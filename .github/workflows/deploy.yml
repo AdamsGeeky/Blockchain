@@ -5,9 +5,9 @@ on:
     branches:
       - source
     paths:
-      - '.github/workflows/deploy.yml'
-      - 'source/***'
-    pull_request:
+      - 'github/workflows/deploy.yml'
+      - 'source/**'
+  pull_request:
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
