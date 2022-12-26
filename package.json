@@ -1,7 +1,7 @@
 {
   "name": "Blockchain",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
