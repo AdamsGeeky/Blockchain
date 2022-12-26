@@ -8,16 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Geek Ink',
   tagline: 'Blockchain',
-  url: 'https://github.io',
-  baseUrl: '/Blockchain/',
-  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'github.com/AdamsGeeky', // Usually your GitHub org/user name.
   projectName: 'Blockchain', // Usually your repo name.
+  url: 'https://adamsgeeky.github.io',
+  baseUrl: '/Blockchain/',
+  onBrokenLinks: 'throw',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -62,8 +61,6 @@ const config = {
       },
     ],
   ],
-
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({

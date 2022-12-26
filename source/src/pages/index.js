@@ -4,7 +4,6 @@ import Typewriter from 'typewriter-effect';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -20,10 +19,8 @@ function HomepageHeader() {
              loop: true,
            }}/>
           </p>
-
-          <div className="bground">
+         <div className="bground">
           <img src={require('../../static/img/AdamsGeeky.png').default}  />
-       
         </div>
       </div>
     </header>

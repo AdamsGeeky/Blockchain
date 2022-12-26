@@ -36,7 +36,6 @@ const FeatureList = [
       one must know before he can act... They say [they will wait] till they truly know before 
       putting their knowledge into practice. Consequently to the end of their lives, 
       they will never act and also will never know.
-        
       </>
     ),
   },
