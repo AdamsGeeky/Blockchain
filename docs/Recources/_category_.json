@@ -1,8 +1,8 @@
 {
   "label": "Resource",
-  "position": 2,
+  "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Blockchain technology is a structure that stores transactional records, also known as the block, of the public in several databases, known as the “chain,” in a network connected through peer-to-peer nodes. Typically, this storage is referred to as a ‘digital ledger."
+    "description": "A blockchain is a decentralized, distributed database that maintains a growing list of records, called blocks, which are secured using cryptography. Each block contains a timestamp and a link to a previous block, forming a chain. This structure allows blockchain technology to be resistant to tampering and revision, as once a block has been added to the chain, it is very difficult to alter or remove. blockchain technology has the potential to revolutionize a wide range of industries by providing a secure, transparent, and decentralized way to store and transfer data and assets."
   }
 }
