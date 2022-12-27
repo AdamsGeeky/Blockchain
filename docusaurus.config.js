@@ -79,7 +79,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Recources/intro',
+            docId: '/category/resource',
             position: 'left',
             label: 'Tutorial',
           },
@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/Recources/intro',
+                to: '/docs/category/resource',
               },
             ],
           },

@@ -8,9 +8,10 @@ const FeatureList = [
     Svg: require('@site/static/img/bitcoin.svg').default,
     description: (
       <>
-       The first step in knowledge is to listen, 
-       then to be quiet and attentive, then to preserve it, 
-       then to put it into practice and then to spread it.
+      A purely peer-to-peer version of electronic cash 
+      would allow online payments to be sent directly from 
+      one party to another without going through a financial institution.
+      - Satoshi Nakamoto, Bitcoin Whitepaper
       </>
     ),
   },
@@ -19,11 +20,10 @@ const FeatureList = [
     Svg: require('@site/static/img/nakamoto.svg').default,
     description: (
       <>
-       Education is a process of transferring various skills and knowledge from 
-       one generation to another with the help of training and teaching.
-        It plays a dominant role in an individual’s life,
-         it is like a power which can be used to bring an actual ‘change’
-          in the world.
+       Thanks to the dense connectivity at the center of the Bitcoin network, 
+       propagation from the first node the transaction reaches 
+       to all other nodes is very fast, requiring less than 
+       1 second for global awareness.
       </>
     ),
   },
@@ -32,10 +32,10 @@ const FeatureList = [
     Svg: require('@site/static/img/ptp.svg').default,
     description: (
       <>
-      People today distinguish between knowledge and action and pursue them separately, believing that 
-      one must know before he can act... They say [they will wait] till they truly know before 
-      putting their knowledge into practice. Consequently to the end of their lives, 
-      they will never act and also will never know.
+      We define an electronic coin as a chain of digital signatures.
+      This chain leads all the way back to the blocks in which each of 
+      the Satoshi tokens being used in the transaction was 
+      first made accessible in the form of a coinbase reward.
       </>
     ),
   },
