@@ -18,8 +18,8 @@ If you finish among the top 30% of the class, you will be onboarded into the mai
 
 must prove your capabilities in the first 2 weeks by getting a cumulative score that puts you in the 30th percentile in all quizzes and projects in that period in order to progress in the programme. If you don’t meet this requirement, you will no longer be part of the programme after 2 weeks.
 # Pre-requisites
-- Git(version control system)
-- GitHub 
+- [Git](https://adamsgeeky.github.io/Blockchain/docs/Recources/tutorial-basics/gitgithub)
+- [GitHub](https://adamsgeeky.github.io/Blockchain/docs/Recources/tutorial-basics/github) 
 - [Difference between Web1,Web2,Web3](https://geekink.hashnode.dev/blockchain-technologies)
 
 <details>
@@ -27,8 +27,8 @@ must prove your capabilities in the first 2 weeks by getting a cumulative score 
 
 # Bitcoin theory
 
-- [Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
-- [How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
+- [Introduction](https://adamsgeeky.github.io/Blockchain/docs/category/bitcoin-theory)
+- [How Bitcoin Works](https://adamsgeeky.github.io/Blockchain/docs/Recources/btheory/intro)
 
 # objective  
 # Chapter 1: Abstract  
@@ -210,7 +210,7 @@ the importance of how JavaScript was developed and how that impacts the way
 
 Course Outline
 
-1.    Introduction to JavaScript
+1.    [Introduction to JavaScript](https://adamsgeeky.github.io/Blockchain/docs/Recources/js/intro)
 2.    JavaScript Variables
 3.    JavaScript Arrays
 4.    Module Summary
@@ -242,42 +242,38 @@ This course covers the fundamental elements of Go: data types, protocols, format
 ## Overview
 - [ ] Objects
 - [ ] Concurrency
-- [x] Installing Go
-    - [x] **Setting Up Go Locally**
-        Installing Go and Running Go Programs
-        Developing Go locally on your own environment is a big step towards creating your very own Go projects and exercising your imagination!
-        This guide will assume some knowledge of the **command line** and use of a code editor **(we recommend VSCode),** so brush up if you need too!
-        First, downland Go to your computer by going to Golang’s download page and select your operating system under the Featured downloads section.
-    - [] **how to compile and run Go programs.**
+- [Installing Go](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/local)
+- [ ] Setting Up Go Locally
+- [how to compile and run Go programs.](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/structure)
 - [ ] Workspaces & Packages
 - [ ] Go Tool
-- [ ] Variables
-- [ ] Variable Initialization
+- [Variables](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/varibles)
+- [Variable Initialization](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/varibles)
 
 ## Data Types
-- [ ] Pointers
-- [ ] Variable Scope 9m
-- [ ] Deallocating Memory 5m
-- [ ] Garbage Collection 5m
-- [ ] Comments, Printing, Integers 7m
-- [ ] Ints, Floats, Strings 9m
-- [ ] String Packages 5m
-- [ ] Constants 4m
-- [ ] Control Flow 8m
+- [Pointers](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype/)
+- [ Variable Scope](http://localhost:3000/Blockchain/docs/Recources/golang/varibles) 
+- [ ] Deallocating Memory 
+- [ ] Garbage Collection 
+- [ ] Comments, Printing, Integers 
+- [Ints, Floats, Strings](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype/) 
+- [ ] String Packages 
+- [Constants](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/varibles) 
+- [ ] Control Flow 
 - [ ] Control Flow, Scan
 
 ## Composite Data Types
-- [ ] Arrays
-- [ ] Slices
-- [ ] Variable Slices
+- [Arrays](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype)
+- [Slices](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype)
+- [Variable Slices](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype)
 - [ ] Hash Tables
-- [ ] Maps
-- [ ] Structs
+- [Maps](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype)
+- [Structs](https://adamsgeeky.github.io/Blockchain/docs/Recources/golang/datatype)
 
 ## Protocols and Formats
 - [ ] RFCs
 - [ ] JSON
-- [ ] File Access, ioutil6m
+- [ ] File Access, ioutil
 - [ ] File Access, os
 
 <!-- 
