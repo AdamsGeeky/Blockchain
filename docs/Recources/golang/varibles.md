@@ -1,13 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Varibles and Constats
-    - - varibale scope
-    - User Input/output 
-        - formatted output
-        - Getting and validating user input
-- Pointers
 
 In Go, a variable is a storage location that holds a value of a specific type. You can use variables to store values such as numbers, strings, and more.
 
@@ -55,6 +50,46 @@ var g *int
 h := new(int)
 *h = 10
 ```
+
+## variable scope
+In Go, the scope of a variable is the portion of the program where the variable is visible and can be accessed.
+
+There are two types of variable scope in Go: local and global.
+
+### local variable scope
+A local variable local is a variable that is declared within a function. It can only be accessed within the function in which it is declared and is not visible to other functions.
+
+### Global variable scope
+A global variable, on the other hand, is a variable that is declared outside of any function. It can be accessed from anywhere in the program. However, it is generally a good idea to avoid using global variables as much as possible, as they can make it difficult to understand the flow of data through a program and can lead to maintenance issues.
+
+In Go, variables can also be declared at the package level. These variables are global to the package, but are not visible to other packages.
+
+Here's an example of how variable scope works in Go:
+
+```go
+package main
+
+import "fmt"
+
+// global variable
+var global = "This is a global variable"
+
+func main() {
+  // local variable
+  local := "This is a local variable"
+
+  fmt.Println(global) // This is a global variable
+  fmt.Println(local) // This is a local variable
+}
+
+func anotherFunc() {
+  fmt.Println(global) // This is a global variable
+  fmt.Println(local) // undefined: local
+}
+```
+In this example, the global variable is visible to both the **main function** and the **anotherFunc function**, because it is a global variable.
+
+However, the local variable is only visible within the **main** function, as it is a local variable. If you try to access the local variable from the **anotherFunc** function, you will get an error saying that local is undefined.
 
 # constants
 Go does not have the concept of constants in the same way that other programming languages do. Instead, Go uses the keyword "const" to declare a value that cannot be changed after it is assigned. For example:
