@@ -1,0 +1,9 @@
+{
+    "go.goroot": "",
+    "go.testEnvVars": {
+    
+    },
+    "gopls": {
+            "experimentalWorkspaceModule": true,
+            }
+}
