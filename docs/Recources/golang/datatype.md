@@ -1,7 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
-
 # Data Types
 
 Go has several built-in data types, including:
@@ -150,55 +149,11 @@ Replacing: You can replace a specific character or substring within a string usi
 Trimming: The "trim" function removes leading and trailing spaces from a string.
 
 Splitting: You can split a string into an array of strings using the "strings.Split()" function.
-## Pointer:
 
-**Pointer** type in Go is a type that stores the memory address of a value. It is represented by the **" * "** symbol followed by the type of the value it points to. For example, a pointer to an integer would be represented as **"*int"**.
+In Go, there are several data structures available for storing and manipulating data. These include:
 
-### There are several operations that can be performed with pointer types in Go:
 
-Assigning a value to a pointer: This is done using the "&" symbol, which returns the memory address of a value. For example:
-```go
-intValue := 10
-intPointer := &intValue
-```
-Dereferencing a pointer: This is done using the "*" symbol, which retrieves the value 
-stored at the memory address pointed to by the pointer. For example:
-```go
-fmt.Println(*intPointer) // prints 10
-```
-Changing the value of a pointer: This is done by dereferencing the pointer and assigning a new value to it. For example:
-```go
-*intPointer = 15
-fmt.Println(*intPointer) // prints 15
-```
-Comparing pointers: Pointers can be compared using the "==" and "!=" operators. For example:
-```go
-ptr1 := &intValue
-ptr2 := &intValue
-
-if ptr1 == ptr2 {
-fmt.Println("Pointers point to the same memory location")
-}
-```
-Pointer arithmetic: Pointers can be incremented or decremented using the "+" or "-" operators. This can be useful for iterating through arrays or slices. For example:
-```go
-slice := []int{1, 2, 3, 4, 5}
-ptr := &slice[0]
-
-for i := 0; i < len(slice); i++ {
-fmt.Println(*ptr)
-ptr++
-}
-```
-Creating a new pointer: A pointer can be created using the "new" function, which allocates memory for a new value and returns a pointer to it. For example:
-```go
-ptr := new(int)
-*ptr = 10
-fmt.Println(*ptr) // prints 10
-```
-a type that holds the memory address of another value
-
-## Struct
+# Struct
 
 A struct is a user-defined type that consists of a collection of fields. Structs can be used to define custom data structures and can contain fields of any type.
 its a composite data type that groups together related data fields.
@@ -225,84 +180,3 @@ You can also initialize a struct with a set of values using the following syntax
 p := Point{1, 2}
 ```
 ## Data structure type
-In Go, there are several data structures available for storing and manipulating data. These include:
-
-## Arrays: 
-An array is a fixed-size collection of elements of the same type. The size of the array is set when it is created and cannot be changed. Arrays can be accessed using their index, and they are 0-indexed, meaning that the first element is at index 0.
-
-syntax
-
-1. **var arrayName = [length]type{value1, value2, value3, ...}**
-
-2. **arrayName := [length]type{value1, value2, value3, ...}**
-```go
-var fruitArray = [3]string{"apple", "banana", "cherry"}
-
-numbers := [5]int{1, 2, 3, 4, 5}
-```
-### Operations:
-
-1. Accessing an element: arr[i]
-2. Setting the value of an element: arr[i] = value
-3. Iterating through the elements: for i, value := range arr
-4. Appending elements to the end of the array
-5. Inserting elements at a specific index
-6. Removing elements at a specific index
-7. Sorting the array
-## Slices:
-A slice is a variable-size collection of elements of the same type. Unlike arrays, slices can be resized and have a capacity, which is the number of elements that can be stored in the slice before it needs to be reallocated.
-
-Slice syntax in Go is as follows:
-
-slice[start:end]
-
-Where 'start' is the index of the first element in the slice and 'end' is the index of the last element in the slice (not including the element at the index of 'end').
-
-For example:
-```go
-mySlice := []int{1, 2, 3, 4, 5}
-newSlice := mySlice[1:3] // newSlice = [2, 3]
-```
-Note that if 'start' is omitted, the slice starts at the beginning of the original slice. If 'end' is omitted, the slice ends at the end of the original slice.
-
-For example:
-```go
-mySlice := []int{1, 2, 3, 4, 5}
-newSlice := mySlice[:3] // newSlice = [1, 2, 3]
-newSlice := mySlice[2:] // newSlice = [3, 4, 5]
-```
-### Operations:
-
-1. Accessing an element: slice[i]
-2. Setting the value of an element: slice[i] = value
-3. Iterating through the elements: for i, value := range slice
-4. Appending an element: slice = append(slice, value)
-5. Removing an element: slice = append(slice[:i], slice[i+1:]...)
-
-
-## Maps: 
-A map is a collection of key-value pairs, where the keys are unique and the values can 
-be of any type. Maps can be accessed using the key, and they are not ordered.
-
-In Go, map syntax looks like this:
-
-**var mapName map[keyType]valueType**
-
-For example, to create a map of strings to integers:
-```go
-var stringToInt map[string]int
-```
-To create a map and initialize it with values, you can use the following syntax:
-```go
-var stringToInt = map[string]int{
-"one": 1,
-"two": 2,
-"three": 3,
-}
-```
-### Operations:
-
-1. Accessing a value: map[key]
-2. Setting the value of a key: map[key] = value
-3. Iterating through the keys and values: for key, value := range map
-4. Removing a key-value pair: delete(map, key)
